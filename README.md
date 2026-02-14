@@ -39,13 +39,15 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/NicolasFPdB?tab=followers" target="_blank">
-    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/ComunidadeDSEtec?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
+    <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/NicolasFpdB?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
   </a>
 </p>
 
 ### Joaquim 2DS:
 <p>
-  
+ <a href="https://github.com/MrFalw?tab=followers" target="_blank">
+  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/MrFalw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
+ </a>
 </p>
 
 ### Pedro 2DS:
