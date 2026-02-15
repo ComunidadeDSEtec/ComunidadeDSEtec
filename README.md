@@ -51,11 +51,15 @@
 </p>
 
 ### Pedro 2DS:
-<p>
-  
+<p>  
+ <a href="https://github.com/pr3d000?tab=followers" target="_blank">
+  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/pr3d000?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
+ </a>
 </p>
 
 ### Renan 3DS:
 <p>
-  
+ <a href="https://github.com/EstevanDeveloper?tab=followers" target="_blank">
+  <img alt="Seguidores" title="Me siga no GitHub" src="https://custom-icon-badges.demolab.com/github/followers/EstevanDeveloperMrFalw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=GitHub&logoColor=white"/>
+ </a>
 </p>
